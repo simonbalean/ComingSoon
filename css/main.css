@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 Project:  ComingSoon
-Version:  
-Last change:  
+Version:
+Last change:
 Assigned to:  Bach Le
-Primary use:  
+Primary use:
 -------------------------------------------------------------------*/
 
 
@@ -13,17 +13,17 @@ Primary use:
 
 @font-face {
   font-family: Montserrat-Regular;
-  src: url('../fonts/Montserrat/Montserrat-Regular.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
 }
 
 @font-face {
   font-family: Montserrat-SemiBold;
-  src: url('../fonts/Montserrat/Montserrat-SemiBold.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-SemiBold.ttf');
 }
 
 @font-face {
   font-family: Playlist Script;
-  src: url('../fonts/Playlist/Playlist Script.otf'); 
+  src: url('../fonts/Playlist/Playlist Script.otf');
 }
 
 
@@ -208,6 +208,13 @@ Primary use:
   line-height: 1.1;
 }
 
+.l1-txt3 {
+  font-family: Montserrat-Regular;
+  font-size: 1em;
+  color: #fff;
+  line-height: 1;
+}
+
 
 /*==================================================================
    SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
@@ -233,7 +240,6 @@ Primary use:
   width: 35px;
   height: 100%;
 }
-
 
 /*//////////////////////////////////////////////////////////////////
 [ Width ]*/
@@ -268,7 +274,7 @@ Primary use:
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 .where1 {
   align-self: flex-start;
@@ -277,7 +283,7 @@ Primary use:
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -522,7 +528,7 @@ Primary use:
    .respon1 {
     font-size: 80px;
   }
-  
+
 }
 
 
