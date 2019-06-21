@@ -1,5 +1,7 @@
 # ComingSoon
 
+HI***123
+
 directory to git pull whenever repo is updated:
   /var/www/simonbalean.com/html/ComingSoon
 
